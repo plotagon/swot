@@ -1,0 +1,16 @@
+{
+  "name": "@plotagon/swot",
+  "version": "0.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:plotagon/swot.git"
+  },
+  "files": [
+    "lib/domains/*",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  }
+}
